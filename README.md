@@ -1,0 +1,2 @@
+# Tribute website
+This is a basic website built to practice HTML CSS and JS. Learning with Odin Project & Free Code camp alongside other resources. This webiste will be a tribute page to author N.K Jemisin, first African American author to win the Hugo award for Best Novel.
